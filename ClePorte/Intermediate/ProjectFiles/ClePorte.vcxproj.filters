@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ClePorte.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ClePorte.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ClePorteEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ClePorte">
+      <UniqueIdentifier>{5A9B4CF8-3DD4-33AF-96F3-F6332C046FBD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ClePorte\ClePorte.Build.cs">
+      <Filter>Source\ClePorte</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ClePorte\ClePorte.cpp">
+      <Filter>Source\ClePorte</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ClePorte\ClePorte.h">
+      <Filter>Source\ClePorte</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ClePorte\ClePorteCharacter.cpp">
+      <Filter>Source\ClePorte</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ClePorte\ClePorteCharacter.h">
+      <Filter>Source\ClePorte</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ClePorte\ClePorteGameMode.cpp">
+      <Filter>Source\ClePorte</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ClePorte\ClePorteGameMode.h">
+      <Filter>Source\ClePorte</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ClePorte\Door.cpp">
+      <Filter>Source\ClePorte</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ClePorte\Door.h">
+      <Filter>Source\ClePorte</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ClePorte\Flag.cpp">
+      <Filter>Source\ClePorte</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ClePorte\Flag.h">
+      <Filter>Source\ClePorte</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ClePorte\FlagGameMode.cpp">
+      <Filter>Source\ClePorte</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ClePorte\FlagGameMode.h">
+      <Filter>Source\ClePorte</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ClePorte\FlagList.cpp">
+      <Filter>Source\ClePorte</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ClePorte\FlagList.h">
+      <Filter>Source\ClePorte</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ClePorte\FlagManager.cpp">
+      <Filter>Source\ClePorte</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ClePorte\FlagManager.h">
+      <Filter>Source\ClePorte</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ClePorte\FlagTrigger.cpp">
+      <Filter>Source\ClePorte</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ClePorte\FlagTrigger.h">
+      <Filter>Source\ClePorte</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ClePorte\Interactable.cpp">
+      <Filter>Source\ClePorte</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ClePorte\Interactable.h">
+      <Filter>Source\ClePorte</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ClePorte\InteractableObject.cpp">
+      <Filter>Source\ClePorte</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ClePorte\InteractableObject.h">
+      <Filter>Source\ClePorte</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ClePorte\InteractionWidget.cpp">
+      <Filter>Source\ClePorte</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ClePorte\InteractionWidget.h">
+      <Filter>Source\ClePorte</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ClePorte\KeyDoor.cpp">
+      <Filter>Source\ClePorte</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ClePorte\KeyDoor.h">
+      <Filter>Source\ClePorte</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ClePorte\LeHUD.cpp">
+      <Filter>Source\ClePorte</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ClePorte\LeHUD.h">
+      <Filter>Source\ClePorte</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

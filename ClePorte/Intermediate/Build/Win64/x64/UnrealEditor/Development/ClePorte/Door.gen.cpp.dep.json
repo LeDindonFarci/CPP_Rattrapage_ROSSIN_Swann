@@ -1,0 +1,33 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\swous\\documents\\unreal\\cleporte\\intermediate\\build\\win64\\unrealeditor\\inc\\cleporte\\uht\\door.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\swous\\documents\\unreal\\cleporte\\intermediate\\build\\win64\\x64\\cleporteeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\swous\\documents\\unreal\\cleporte\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cleporte\\definitions.cleporte.h",
+            "c:\\users\\swous\\documents\\unreal\\cleporte\\source\\cleporte\\door.h",
+            "c:\\users\\swous\\documents\\unreal\\cleporte\\source\\cleporte\\interactable.h",
+            "c:\\users\\swous\\documents\\unreal\\cleporte\\intermediate\\build\\win64\\unrealeditor\\inc\\cleporte\\uht\\interactable.generated.h",
+            "c:\\users\\swous\\documents\\unreal\\cleporte\\source\\cleporte\\flagtrigger.h",
+            "c:\\users\\swous\\documents\\unreal\\cleporte\\source\\cleporte\\flag.h",
+            "c:\\users\\swous\\documents\\unreal\\cleporte\\intermediate\\build\\win64\\unrealeditor\\inc\\cleporte\\uht\\flag.generated.h",
+            "c:\\users\\swous\\documents\\unreal\\cleporte\\source\\cleporte\\cleportegamemode.h",
+            "c:\\jeux\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\jeux\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\jeux\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\jeux\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\swous\\documents\\unreal\\cleporte\\source\\cleporte\\flagmanager.h",
+            "c:\\users\\swous\\documents\\unreal\\cleporte\\source\\cleporte\\flaglist.h",
+            "c:\\users\\swous\\documents\\unreal\\cleporte\\intermediate\\build\\win64\\unrealeditor\\inc\\cleporte\\uht\\flaglist.generated.h",
+            "c:\\users\\swous\\documents\\unreal\\cleporte\\intermediate\\build\\win64\\unrealeditor\\inc\\cleporte\\uht\\flagmanager.generated.h",
+            "c:\\users\\swous\\documents\\unreal\\cleporte\\intermediate\\build\\win64\\unrealeditor\\inc\\cleporte\\uht\\cleportegamemode.generated.h",
+            "c:\\users\\swous\\documents\\unreal\\cleporte\\intermediate\\build\\win64\\unrealeditor\\inc\\cleporte\\uht\\flagtrigger.generated.h",
+            "c:\\jeux\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\components\\timelinecomponent.h",
+            "c:\\jeux\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\timelinecomponent.generated.h",
+            "c:\\users\\swous\\documents\\unreal\\cleporte\\intermediate\\build\\win64\\unrealeditor\\inc\\cleporte\\uht\\door.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

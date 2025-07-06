@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ClePorte",
+			"Path": "..\\Source\\ClePorte.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ClePorteEditor",
+			"Path": "..\\Source\\ClePorteEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
